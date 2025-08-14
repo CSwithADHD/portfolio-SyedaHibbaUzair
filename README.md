@@ -27,7 +27,7 @@ Responsive design using Flexbox and Grid for seamless performance across devices
 
 JavaScript enhancements for interactivity (e.g., theme toggle, smooth scrolling).
 
-Assets and images optimized for faster loading and better performance.
+Optimized assets and images for faster loading and improved performance.
 
 📌 Key Features
 
@@ -39,5 +39,6 @@ Clean, Modern Aesthetic – Minimalist yet personalized design to reflect her st
 
 Dedicated Sections – About, Skills, Achievements, Contact, and more.
 
-Live Demo
+🔗 Live Demo
+
 https://portfolio-syeda-hibba-uzair.vercel.app
